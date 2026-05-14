@@ -1,32 +1,27 @@
-# UniBuddy Chatbot System
+# UniBuddy Chatbot
 
 ## Overview
-UniBuddy is a Python-based interactive chatbot designed to assist university students by providing personalized responses and answering questions about campus life.
+A Python command-line chatbot designed to simulate a university assistant for new students.
 
 ---
 
 ## Features
-- Collects user information (name, age, country, favorite color)
-- Provides personalized greetings
+- Collects user data (name, age, country, favourite colour)
+- Personalized responses
 - Answers questions about:
   - Library
-  - Sports
   - Clubs
-  - Student support
+  - Sports
   - Restaurants
+  - Student support
 
 ---
 
-## Tools
-- Python (core programming)
-
----
-
-## Concepts Demonstrated
-- User input handling
+## Concepts
 - Conditional logic
 - Loops
-- Interactive CLI applications
+- User input handling
+- CLI interaction
 
 ---
 
